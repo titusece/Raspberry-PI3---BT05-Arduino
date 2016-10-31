@@ -11,3 +11,6 @@ sdptool records 20:16:06:12:08:89
 sudo python bluetooth_serial_rpi_new.py <data> <MAC ID>
 Ex:
 sudo python bluetooth_serial_rpi_new.py 2 20:16:06:12:08:89
+
+
+Use any one of the python scripts to communicate between BT05 device from raspberry pi3 board.
